@@ -1,2 +1,16 @@
-# url-checker-for-phising-with-python
- A Python tool to detect phishing URLs by analyzing domain age, HTTPS usage, and suspicious keywords. Stay safe online!
+# Phishing URL Checker 🔍
+
+A Python script that evaluates the phishing potential of URLs using various detection methods.
+
+## Features ✨
+- HTTPS verification
+- Domain age analysis
+- Suspicious keyword scanning
+- URL shortening service detection
+- Risk scoring system
+
+## Installation ⚙️
+
+1. Install requirements:
+```bash
+pip install requests python-whois
